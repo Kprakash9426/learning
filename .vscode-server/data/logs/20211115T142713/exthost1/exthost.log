@@ -1,0 +1,35 @@
+[2021-11-15 14:28:00.050] [exthost] [info] Extension host with pid 4760 started
+[2021-11-15 14:28:00.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-15 14:28:00.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-15 14:28:00.668] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+[2021-11-15 14:28:01.765] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/2f70b44cd6887f864e6da5c762ebff53/vscode.lock': Lock acquired.
+[2021-11-15 14:28:15.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-15 14:28:15.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 14:28:15.822] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 14:28:20.264] [exthost] [info] Eager extensions activated
+[2021-11-15 14:29:50.237] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2021-11-15 14:32:01.301] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-15 14:32:03.803] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-15 16:06:49.230] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-15 16:06:49.521] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/prakash/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-15 16:06:49.988] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-15 16:06:50.039] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:334291
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async z.provideDocumentSemanticTokens (/home/prakash/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:178315)
+[2021-11-15 16:06:50.044] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-15 16:06:50.044] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:335369
+	at async U.provideDocumentRangeSemanticTokens (/home/prakash/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:180425)
+[2021-11-15 20:38:47.080] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-15 20:38:47.638] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/2f70b44cd6887f864e6da5c762ebff53/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-15 20:39:08.724] [exthost] [info] Extension host with pid 4760 exiting with code 0

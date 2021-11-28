@@ -1,0 +1,14 @@
+[2021-11-17 18:10:49.363] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-17 18:10:49.364] [remoteagent] [info] Extension host agent started.
+[2021-11-17 18:10:51.982] [remoteagent] [info] [::ffff:127.0.0.1][f588d3f3][ManagementConnection] New connection established.
+[2021-11-17 18:10:51.989] [remoteagent] [info] [::ffff:127.0.0.1][04e767f5][ExtensionHostConnection] New connection established.
+[2021-11-17 18:10:53.785] [remoteagent] [info] [::ffff:127.0.0.1][04e767f5][ExtensionHostConnection] <119> Launched Extension Host Process.

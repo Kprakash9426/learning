@@ -1,0 +1,28 @@
+[2021-11-27 19:06:11.937] [exthost] [info] Extension host with pid 348 started
+[2021-11-27 19:06:12.016] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/f007d33e9f13ad65ecf69e12c80de61a/vscode.lock': Lock acquired.
+[2021-11-27 19:06:12.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-27 19:06:12.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-27 19:06:16.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-27 19:06:16.103] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-27 19:06:16.869] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-27 19:06:18.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 19:06:18.304] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 19:06:18.355] [exthost] [info] Eager extensions activated
+[2021-11-27 19:06:21.276] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-27 19:06:23.936] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-27 19:07:47.756] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 19:07:47.757] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-27 19:08:09.744] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-27 19:08:09.744] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-27 19:08:18.198] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-27 19:08:18.198] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-27 20:27:54.044] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-27 20:27:54.098] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/f007d33e9f13ad65ecf69e12c80de61a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-27 20:27:56.000] [exthost] [info] Extension host with pid 348 exiting with code 0

@@ -1,0 +1,24 @@
+[2021-11-15 14:27:25.729] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-15 14:27:25.729] [remoteagent] [info] Extension host agent started.
+[2021-11-15 14:27:26.331] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2021-11-15 14:27:27.595] [remoteagent] [info] [::ffff:127.0.0.1][f2e200b5][ManagementConnection] New connection established.
+[2021-11-15 14:27:28.205] [remoteagent] [info] [::ffff:127.0.0.1][515a2496][ExtensionHostConnection] New connection established.
+[2021-11-15 14:27:28.396] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-15 14:27:33.497] [remoteagent] [info] [::ffff:127.0.0.1][515a2496][ExtensionHostConnection] <4760> Launched Extension Host Process.
+[2021-11-15 14:27:57.681] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.0
+[2021-11-15 15:01:07.111] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-15 15:01:24.017] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-15 16:06:32.106] [remoteagent] [info] [::ffff:127.0.0.1][515a2496][ExtensionHostConnection] The client has reconnected.
+[2021-11-15 20:38:29.934] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-15 20:38:46.686] [remoteagent] [info] [::ffff:127.0.0.1][f2e200b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-15 20:39:14.504] [remoteagent] [info] [::ffff:127.0.0.1][515a2496][ExtensionHostConnection] <4760> Extension Host Process exited with code: 0, signal: null.
+[2021-11-15 20:39:14.505] [remoteagent] [info] Last EH closed, waiting before shutting down

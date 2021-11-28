@@ -1,0 +1,25 @@
+[Info  - 2:29:56 PM] Pylance language server 2021.11.1 (pyright 446a9bdb) starting
+[Info  - 2:29:56 PM] Server root directory: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 2:29:56 PM] No configuration file found.
+[Info  - 2:29:56 PM] No pyproject.toml file found.
+[Info  - 2:29:56 PM] Setting pythonPath for service "python-browser-automation": "/home/prakash/python-browser-automation/venv/bin/python"
+[Warn  - 2:29:56 PM] stubPath /home/prakash/python-browser-automation/typings is not a valid directory.
+[Info  - 2:29:58 PM] Assuming Python version 3.8
+[Info  - 2:29:58 PM] Assuming Python platform Linux
+[Warn  - 2:30:01 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:30:01 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:30:01 PM] Searching for source files
+[Info  - 2:30:01 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 2:30:01 PM] Found 1 source file
+[Info  - 2:30:01 PM] Background analysis(1) root directory: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 2:30:01 PM] Background analysis(1) started
+[Info  - 2:33:25 PM] Searching for source files
+[Info  - 2:33:25 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 2:33:25 PM] Found 1 source file
+[Info  - 4:06:46 PM] [FG] Long operation: parsing: /home/prakash/python-browser-automation/main.py (6418ms)
+[Info  - 4:06:46 PM] [FG] Long operation: parsing: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist/typeshed-fallback/stdlib/builtins.pyi (18735ms)
+[Info  - 4:06:48 PM] [FG] Long operation: binding: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist/typeshed-fallback/stdlib/builtins.pyi (7343ms)
+[Info  - 4:06:49 PM] [BG(1)] Long operation: parsing: /home/prakash/python-browser-automation/main.py (5650ms)
+[Info  - 4:06:49 PM] [BG(1)] Long operation: parsing: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist/typeshed-fallback/stdlib/builtins.pyi (7889ms)
+[Info  - 4:06:49 PM] [BG(1)] Long operation: binding: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist/typeshed-fallback/stdlib/builtins.pyi (3537ms)
+[Info  - 4:06:49 PM] [BG(1)] Long operation: analyzing: /home/prakash/python-browser-automation/main.py (17742ms)

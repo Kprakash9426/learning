@@ -1,0 +1,15 @@
+[2021-11-27 18:38:08.809] [exthost] [info] Extension host with pid 187 started
+[2021-11-27 18:38:08.819] [exthost] [error] Error: EEXIST: file already exists, open '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock'
+[2021-11-27 18:38:08.828] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-11-27 18:38:08.829] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': The lockfile is scheduled to have been released.
+[2021-11-27 18:38:08.880] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Deleting a stale lock.
+[2021-11-27 18:38:09.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-27 18:38:09.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-27 18:38:10.032] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Lock acquired.
+[2021-11-27 18:38:26.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 18:38:26.502] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 18:38:36.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-27 18:38:37.119] [exthost] [info] Eager extensions activated
+[2021-11-27 19:05:43.830] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-27 19:05:43.840] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-27 19:05:44.860] [exthost] [info] Extension host with pid 187 exiting with code 0

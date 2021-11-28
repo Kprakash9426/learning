@@ -1,0 +1,41 @@
+[2021-11-27 18:37:42.357] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-27 18:37:42.357] [remoteagent] [info] Extension host agent started.
+[2021-11-27 18:37:45.054] [remoteagent] [info] [::ffff:127.0.0.1][c5c4cc43][ManagementConnection] New connection established.
+[2021-11-27 18:37:45.069] [remoteagent] [info] [::ffff:127.0.0.1][63523c93][ExtensionHostConnection] New connection established.
+[2021-11-27 18:37:46.102] [remoteagent] [info] [::ffff:127.0.0.1][63523c93][ExtensionHostConnection] <187> Launched Extension Host Process.
+[2021-11-27 18:37:49.779] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/A/AppData/Local/Application Data" points to "/mnt/c/Users/A/AppData/Local"
+[2021-11-27 18:38:10.614] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1
+[2021-11-27 18:38:31.468] [remoteagent] [info] [::ffff:127.0.0.1][63523c93][ExtensionHostConnection] The client has reconnected.
+[2021-11-27 18:42:20.048] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:42:21.146] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:43:53.474] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:45:07.426] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:45:24.816] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:47:15.626] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:47:23.218] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:47:35.238] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:49:42.950] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:49:50.699] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:50:07.837] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:53:04.042] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:53:13.384] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:53:29.497] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:56:33.053] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:56:47.225] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:57:14.579] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 18:58:52.281] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 19:01:27.514] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 19:01:48.929] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 19:02:35.441] [remoteagent] [warning] [File Watcher (chokidar)] Error: EPROTOTYPE: protocol wrong type for socket, stat '/mnt/c/Users/A/AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5'
+[2021-11-27 19:05:43.830] [remoteagent] [info] [::ffff:127.0.0.1][c5c4cc43][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-27 19:05:45.031] [remoteagent] [info] [::ffff:127.0.0.1][63523c93][ExtensionHostConnection] <187> Extension Host Process exited with code: 0, signal: null.
+[2021-11-27 19:05:45.034] [remoteagent] [info] Last EH closed, waiting before shutting down

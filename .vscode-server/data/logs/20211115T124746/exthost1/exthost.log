@@ -1,0 +1,16 @@
+[2021-11-15 12:47:53.435] [exthost] [info] Extension host with pid 281 started
+[2021-11-15 12:47:53.481] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/d3a5a53efb94e4084f2edcae8becb005/vscode.lock': Lock acquired.
+[2021-11-15 12:47:53.638] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-15 12:47:54.964] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-15 12:47:55.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-15 12:47:55.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-15 12:47:59.341] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-15 12:48:01.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-15 12:48:09.176] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-15 12:48:15.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 12:48:15.522] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 12:48:19.104] [exthost] [info] Eager extensions activated
+[2021-11-15 12:48:57.835] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 7573
+[2021-11-15 13:01:00.915] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-15 13:01:00.916] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/d3a5a53efb94e4084f2edcae8becb005/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-15 13:01:02.043] [exthost] [info] Extension host with pid 281 exiting with code 0

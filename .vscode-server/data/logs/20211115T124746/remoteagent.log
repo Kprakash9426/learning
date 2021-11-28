@@ -1,0 +1,19 @@
+[2021-11-15 12:47:48.825] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-15 12:47:48.825] [remoteagent] [info] Extension host agent started.
+[2021-11-15 12:47:49.008] [remoteagent] [info] [::ffff:127.0.0.1][455f9207][ManagementConnection] New connection established.
+[2021-11-15 12:47:49.105] [remoteagent] [info] [::ffff:127.0.0.1][d2ecd48d][ExtensionHostConnection] New connection established.
+[2021-11-15 12:47:50.858] [remoteagent] [info] [::ffff:127.0.0.1][d2ecd48d][ExtensionHostConnection] <281> Launched Extension Host Process.
+[2021-11-15 12:48:04.269] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-15 12:48:14.251] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-15 13:01:00.915] [remoteagent] [info] [::ffff:127.0.0.1][455f9207][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-15 13:01:02.292] [remoteagent] [info] [::ffff:127.0.0.1][d2ecd48d][ExtensionHostConnection] <281> Extension Host Process exited with code: 0, signal: null.
+[2021-11-15 13:01:02.294] [remoteagent] [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,10 @@
+[2021-11-15 12:45:55.048] [exthost] [info] Extension host with pid 178 started
+[2021-11-15 12:45:55.227] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Lock acquired.
+[2021-11-15 12:45:55.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-15 12:45:56.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-15 12:46:08.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 12:46:10.358] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-15 12:46:22.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-15 12:46:23.607] [exthost] [info] Eager extensions activated
+[2021-11-15 12:47:37.721] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-15 12:47:37.722] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/0fa65f94c41a477d9b22ffa08fa2797c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

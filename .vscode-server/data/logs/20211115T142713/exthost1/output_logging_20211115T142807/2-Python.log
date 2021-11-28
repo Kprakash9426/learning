@@ -1,0 +1,22 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotificationcf' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> ~/python-browser-automation/venv/bin/python ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Error 2021-11-15 14:29:18: Autoselection timeout out, this is likely a issue with how consumer called execution factory API. Using default python to execute.
+> C:\Users\A\AppData\Local\Programs\Python\Python39\python.exe -c "import sys;print(sys.executable)"
+Error 2021-11-15 14:29:23: Autoselection timeout out, this is likely a issue with how consumer called execution factory API. Using default python to execute.
+> C:\Users\A\AppData\Local\Programs\Python\Python39\python.exe -c "import sys;print(sys.executable)"
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda --version
+Python interpreter path: ./venv/bin/python
+> ". /home/prakash/python-browser-automation/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+Error 2021-11-15 20:39:01: Error while running worker[Worker 1]. undefined
+Error 2021-11-15 20:39:01: Error while running worker[Worker 2]. undefined

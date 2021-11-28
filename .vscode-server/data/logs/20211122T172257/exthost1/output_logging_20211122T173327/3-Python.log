@@ -1,0 +1,16 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotificationcf' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda --version
+Error 2021-11-22 19:46:53: Error while running worker[Worker 2]. undefined
+Error 2021-11-22 19:46:53: Error while running worker[Worker 1]. undefined

@@ -1,0 +1,27 @@
+[2021-11-15 14:14:35.737] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-15 14:14:35.737] [remoteagent] [info] Extension host agent started.
+[2021-11-15 14:14:35.737] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2021-11-15 14:14:35.737] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-15 14:14:38.412] [remoteagent] [info] [::ffff:127.0.0.1][ccfa3761][ManagementConnection] New connection established.
+[2021-11-15 14:14:38.477] [remoteagent] [info] [::ffff:127.0.0.1][de7c7e3d][ExtensionHostConnection] New connection established.
+[2021-11-15 14:14:38.592] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-15 14:14:39.467] [remoteagent] [info] [::ffff:127.0.0.1][de7c7e3d][ExtensionHostConnection] <4583> Launched Extension Host Process.
+[2021-11-15 14:14:54.366] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter /home/prakash/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-11-15 14:15:00.652] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 14:15:01.652] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 14:15:01.846] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-15 14:15:02.085] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/prakash/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.1
+[2021-11-15 14:17:00.671] [remoteagent] [info] Extracted extension to /home/prakash/.vscode-server/extensions/.7bb7b380-4998-47b0-bebb-d073b83e1cdd: ms-python.vscode-pylance
+[2021-11-15 14:17:01.222] [remoteagent] [info] Renamed to /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1
+[2021-11-15 14:17:01.260] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-15 14:17:01.761] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-11-15 14:24:22.885] [remoteagent] [info] [::ffff:127.0.0.1][ccfa3761][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

@@ -1,0 +1,28 @@
+Info 2021-11-27 19:06:20: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-11-27 19:06:21: ZMQ install verified.
+Info 2021-11-27 19:06:26: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-27 19:06:39: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-27 19:06:39: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-11-27 19:06:41: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-27 19:06:41: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-11-27 19:06:44: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-27 19:06:44: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-11-27 19:06:45: Process Execution: > /bin/python3 -c "import pip"
+> /bin/python3 -c "import pip"
+Info 2021-11-27 19:06:45: Process Execution: > /bin/python3 -c "import pip"
+> /bin/python3 -c "import pip"
+Info 2021-11-27 20:27:54: Shutting down notebooks for 674fdcdf-6a20-4fa4-97d0-4e48124a3eb1
+Info 2021-11-27 20:27:54: Disposing HostJupyterExecution e576a67b-5241-4c02-baca-fd3c77b5f82d
+Info 2021-11-27 20:27:54: Disposing super HostJupyterExecution e576a67b-5241-4c02-baca-fd3c77b5f82d
+Info 2021-11-27 20:27:54: Disposing HostJupyterExecution e576a67b-5241-4c02-baca-fd3c77b5f82d
+Info 2021-11-27 20:27:54: Finished disposing HostJupyterExecution  e576a67b-5241-4c02-baca-fd3c77b5f82d
+Info 2021-11-27 20:27:54: Cleaning up server cache e576a67b-5241-4c02-baca-fd3c77b5f82d
+Info 2021-11-27 20:27:54: Finished disposing HostJupyterExecution  e576a67b-5241-4c02-baca-fd3c77b5f82d

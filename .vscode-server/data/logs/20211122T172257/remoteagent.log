@@ -1,0 +1,27 @@
+[2021-11-22 17:23:01.004] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-22 17:23:01.004] [remoteagent] [info] Extension host agent started.
+[2021-11-22 17:23:03.298] [remoteagent] [info] [::ffff:127.0.0.1][e5a7c9b2][ManagementConnection] New connection established.
+[2021-11-22 17:23:03.303] [remoteagent] [info] [::ffff:127.0.0.1][f301de39][ExtensionHostConnection] New connection established.
+[2021-11-22 17:23:04.574] [remoteagent] [info] [::ffff:127.0.0.1][f301de39][ExtensionHostConnection] <161> Launched Extension Host Process.
+[2021-11-22 17:23:13.607] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-22 17:23:18.325] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/prakash/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.2
+[2021-11-22 17:24:33.257] [remoteagent] [info] Extracted extension to /home/prakash/.vscode-server/extensions/.276c418f-2b18-4581-b829-910f120909e0: ms-python.vscode-pylance
+[2021-11-22 17:24:33.750] [remoteagent] [info] Renamed to /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.2
+[2021-11-22 17:24:33.758] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-22 17:24:34.099] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-11-22 19:00:22.002] [remoteagent] [info] [::ffff:127.0.0.1][e5a7c9b2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-22 19:25:25.963] [remoteagent] [info] [::ffff:127.0.0.1][e5a7c9b2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-22 19:25:25.965] [remoteagent] [info] [::ffff:127.0.0.1][f301de39][ExtensionHostConnection] The client has reconnected.
+[2021-11-22 19:25:28.024] [remoteagent] [info] [::ffff:127.0.0.1][e5a7c9b2][ManagementConnection] The client has reconnected.
+[2021-11-22 19:46:53.476] [remoteagent] [info] [::ffff:127.0.0.1][e5a7c9b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-22 19:46:55.340] [remoteagent] [info] [::ffff:127.0.0.1][f301de39][ExtensionHostConnection] <161> Extension Host Process exited with code: 0, signal: null.
+[2021-11-22 19:46:55.341] [remoteagent] [info] Last EH closed, waiting before shutting down

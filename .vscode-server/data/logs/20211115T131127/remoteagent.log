@@ -1,0 +1,31 @@
+[2021-11-15 13:11:37.452] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-15 13:11:37.452] [remoteagent] [info] Extension host agent started.
+[2021-11-15 13:11:40.662] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2021-11-15 13:11:41.938] [remoteagent] [info] [::ffff:127.0.0.1][bb8ec2bb][ManagementConnection] New connection established.
+[2021-11-15 13:11:42.019] [remoteagent] [info] [::ffff:127.0.0.1][1e7aead0][ExtensionHostConnection] New connection established.
+[2021-11-15 13:11:42.035] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2021-11-15 13:11:44.947] [remoteagent] [info] [::ffff:127.0.0.1][1e7aead0][ExtensionHostConnection] <478> Launched Extension Host Process.
+[2021-11-15 13:11:50.591] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 13:11:51.260] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 13:11:51.262] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 13:11:51.367] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-15 13:11:51.375] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-11-15 13:11:51.700] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 13:11:51.702] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2021-11-15 13:11:55.369] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/prakash/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.1
+[2021-11-15 13:11:59.808] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/prakash/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-15 13:12:24.872] [remoteagent] [info] [::ffff:127.0.0.1][1e7aead0][ExtensionHostConnection] The client has reconnected.
+[2021-11-15 13:12:38.030] [remoteagent] [info] Extracted extension to /home/prakash/.vscode-server/extensions/.6159977c-3e0f-4c4b-9d3a-20fbc99b5a84: ms-toolsai.jupyter
+[2021-11-15 13:12:40.663] [remoteagent] [info] Renamed to /home/prakash/.vscode-server/extensions/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-15 13:12:40.772] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-11-15 13:12:40.872] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-11-15 13:12:52.702] [remoteagent] [info] [::ffff:127.0.0.1][bb8ec2bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

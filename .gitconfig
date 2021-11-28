@@ -1,0 +1,7 @@
+[user]
+	name = A
+	email = kprakasheee35@gmail.com
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
+[credential "https://dev.azure.com"]
+	useHttpPath = true
