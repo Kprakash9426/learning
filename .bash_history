@@ -226,3 +226,11 @@ git pull
 DecToFrac
 DecToFrac.py
 python DecToFrac.py
+ls
+cd learning
+add .
+git add .
+git commit -am "initial release"
+git push
+touch .gitignore
+ls
