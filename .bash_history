@@ -234,3 +234,6 @@ git commit -am "initial release"
 git push
 touch .gitignore
 ls
+git add .
+git commit -am "initial release"
+git push
