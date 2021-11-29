@@ -4,3 +4,9 @@ Using git 2.25.1 from git
 Open repository: /home/prakash
 > git status -z -u
 > git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/prakash' failed; ex=Canceled: Canceled

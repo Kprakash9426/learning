@@ -13,3 +13,4 @@
 [2021-11-28 15:27:21.712] [remoteagent] [info] [::ffff:127.0.0.1][5f43da45][ExtensionHostConnection] New connection established.
 [2021-11-28 15:27:22.746] [remoteagent] [info] [::ffff:127.0.0.1][5f43da45][ExtensionHostConnection] <161> Launched Extension Host Process.
 [2021-11-28 15:27:35.106] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-28 20:23:33.839] [remoteagent] [info] [::ffff:127.0.0.1][11265fb9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

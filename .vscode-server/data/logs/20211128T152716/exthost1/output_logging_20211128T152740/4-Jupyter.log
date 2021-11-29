@@ -19,3 +19,10 @@ Info 2021-11-28 15:28:00: Process Execution: > /bin/python3 -c "import pip"
 > /bin/python3 -c "import pip"
 Info 2021-11-28 15:28:00: Process Execution: > /bin/python3 -c "import pip"
 > /bin/python3 -c "import pip"
+Info 2021-11-28 20:23:33: Shutting down notebooks for 3bff0998-486a-4833-86b2-622fcd8500f3
+Info 2021-11-28 20:23:33: Disposing HostJupyterExecution 1d656e9b-c44b-4966-92ad-c9e5594dd4a5
+Info 2021-11-28 20:23:33: Disposing super HostJupyterExecution 1d656e9b-c44b-4966-92ad-c9e5594dd4a5
+Info 2021-11-28 20:23:33: Disposing HostJupyterExecution 1d656e9b-c44b-4966-92ad-c9e5594dd4a5
+Info 2021-11-28 20:23:33: Finished disposing HostJupyterExecution  1d656e9b-c44b-4966-92ad-c9e5594dd4a5
+Info 2021-11-28 20:23:33: Cleaning up server cache 1d656e9b-c44b-4966-92ad-c9e5594dd4a5
+Info 2021-11-28 20:23:33: Finished disposing HostJupyterExecution  1d656e9b-c44b-4966-92ad-c9e5594dd4a5

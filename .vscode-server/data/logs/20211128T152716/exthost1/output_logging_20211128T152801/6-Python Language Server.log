@@ -15,3 +15,15 @@
 [Info  - 3:28:10 PM] Found 6265 source files
 [Info  - 3:28:10 PM] Background analysis(1) root directory: /home/prakash/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.2/dist
 [Info  - 3:28:10 PM] Background analysis(1) started
+[Info  - 7:28:08 PM] Searching for source files
+[Info  - 7:28:10 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 7:28:10 PM] Found 6431 source files
+[Info  - 7:28:50 PM] Searching for source files
+[Info  - 7:28:51 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 7:28:51 PM] Found 6431 source files
+[Info  - 7:32:33 PM] Searching for source files
+[Info  - 7:32:34 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 7:32:34 PM] Found 6432 source files
+[Info  - 7:32:47 PM] Searching for source files
+[Info  - 7:32:47 PM] Auto-excluding /home/prakash/python-browser-automation/venv
+[Info  - 7:32:47 PM] Found 6433 source files

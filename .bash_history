@@ -208,3 +208,21 @@ cd
 code .
 cd
 code .
+cd
+code .
+git pull
+git add --all
+cd learning
+git add --all
+git pull
+git add --all
+git commit -am "intial release"
+git add --all
+git pull
+git add --all
+git commit -am "intial release"
+git push
+git pull
+DecToFrac
+DecToFrac.py
+python DecToFrac.py

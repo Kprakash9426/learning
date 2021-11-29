@@ -46,3 +46,80 @@
 	at h (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
 	at async x.provideCompletionItems (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
 [2021-11-28 15:31:37.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2021-11-28 19:29:01.288] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:29:01.288] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-28 19:31:06.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-28 19:31:07.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-28 19:31:07.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-28 19:31:08.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-28 19:32:37.927] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:32:37.928] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-28 19:32:48.114] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:32:48.114] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:115854
+	at async s.provideDocumentSymbols (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:167312)
+[2021-11-28 19:32:48.145] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:32:48.145] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-28 19:33:57.801] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:33:57.802] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 19:33:57.915] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:33:57.915] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 19:34:37.321] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:34:37.322] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 19:34:37.329] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:34:37.329] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 19:34:37.331] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:34:37.331] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async T.provideCodeActions (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:172824)
+[2021-11-28 19:34:37.338] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:34:37.338] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 19:34:38.967] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:34:38.967] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-28 19:35:22.820] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-28 19:35:22.820] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/prakash/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/home/prakash/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/server/remoteExtensionHostProcess.js:94:170516)
+[2021-11-28 20:23:33.840] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-28 20:23:33.870] [exthost] [info] Lock '/home/prakash/.vscode-server/data/User/workspaceStorage/f007d33e9f13ad65ecf69e12c80de61a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
